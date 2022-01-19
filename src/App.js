@@ -28,6 +28,7 @@ class App extends Component{
 
     return (
       <div className="App">
+        <h1 translate='no'>Monster Rolodex</h1>
         <input 
           className='search'
           type='search' 
